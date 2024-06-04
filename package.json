@@ -1,0 +1,30 @@
+{
+  "name": "ismi",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo 'welcome to see mi, yes , is mi'"
+  },
+  "files": [
+    "out",
+    "types"
+  ],
+  "keywords": [
+    "is mi"
+  ],
+  "author": "lmssee <lmssee@outlook.com>  (https://lmssee.com)",
+  "license": "ISC",
+  "description": "I don't know what I want to do, but I just want to occupy this name, just like vast majority people do.Perhaps in the future, I will remember what to do with it, but now it's mine",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmssee/ismi.git"
+  },
+  "homepage": "https://lmssee.github.io/ismi",
+  "bugs": {
+    "url": "https://github.com/lmssee/ismi/issues",
+    "email": "lmssee@outlook.com"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
