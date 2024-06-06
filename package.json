@@ -1,5 +1,5 @@
 {
-  "name": "ismi",
+  "name": "letmiseesee",
   "version": "0.0.0",
   "scripts": {
     "test": "echo 'welcome to see mi, yes , is mi'"
@@ -16,11 +16,11 @@
   "description": "I don't know what I want to do, but I just want to occupy this name, just like vast majority people do.Perhaps in the future, I will remember what to do with it, but now it's mine",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lmssee/ismi.git"
+    "url": "git+https://github.com/lmssee/letmiseesee.git"
   },
-  "homepage": "https://lmssee.github.io/ismi",
+  "homepage": "https://lmssee.github.io/letmiseesee",
   "bugs": {
-    "url": "https://github.com/lmssee/ismi/issues",
+    "url": "https://github.com/lmssee/letmiseesee/issues",
     "email": "lmssee@outlook.com"
   },
   "publishConfig": {
